@@ -86,4 +86,5 @@ with tab3:
     st.write("**Ghi nhớ:**")
     st.markdown("- **Proton (p):** Trong hạt nhân, mang điện dương (+).")
     st.markdown("- **Neutron (n):** Trong hạt nhân, không mang điện.")
+
     st.markdown("- **Electron (e):** Ở lớp vỏ, mang điện âm (-).")
