@@ -1,3 +1,6 @@
 streamlit
 mendeleev
 chempy
+rdkit
+Pillow
+pubchempy
